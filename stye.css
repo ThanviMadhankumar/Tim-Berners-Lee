@@ -1,0 +1,58 @@
+body {
+    text-align: center;
+}
+#welcome {
+    z-index:9;
+background:linear-gradient(#65d6d4 0%,#6d65d6 100%);
+padding-top :80px; 
+width:100%;
+padding-bottom:50px ;
+}
+ul{
+    width:100% ;
+    background-color:white ;
+    position:fixed ;
+    z-index:10 ;
+    list-style:none ;
+    top: 0px;
+margin-top: 0px;
+    cursor: pointer;
+}
+li{
+display: inline;
+    font-size : 20px; 
+    font-family:fantasy;
+    padding-left: 10px;
+    padding-bottom:5px;
+    padding-right:10px;
+    padding-top:5px;
+
+}
+h1{
+    font-family:'Quintessential', cursive;
+    font-size:50px;
+    color:maroon;
+}
+h2{
+    font-size:50px;
+    color:#4d186e;
+    font-family:fantasy;
+}
+h3{
+    font-size:50px ;
+    color:#270b5c;
+    font-family:fantasy; 
+}
+#bio{
+    font-size:20px ;
+    font-family:'Quintessential', cursive;
+
+    padding:50px;
+}
+img{
+    border-radius:50% ;
+    margin-bottom:50px ;
+}
+a{
+    font-size:20px ;
+}
